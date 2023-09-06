@@ -27,7 +27,7 @@ PageFactory.initElements( driver, this);
 	public WebElement getPass() {
 		return pass;
 	}
-
+// this method 
 	public WebElement getClik() {
 		return lginbtn;
 	}
