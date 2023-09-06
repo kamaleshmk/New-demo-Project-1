@@ -23,7 +23,7 @@ PageFactory.initElements( driver, this);
 	public WebElement getName() {
 		return name;
 	}
-
+// this method returns webelement
 	public WebElement getPass() {
 		return pass;
 	}
